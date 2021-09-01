@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Ahmed ibrahim cv</title>
-  <link rel="icon" href="img/2.png" type="image/icon type">
+  <link rel="icon" href="images/2.png" type="image/icon type">
   <!-- Load Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
