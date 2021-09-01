@@ -6,7 +6,7 @@ include "includes/templates/header.php";
 
     <nav class="navbar navbar__menu">
       <!-- Navigation -->
-      <a href="#" class="navbar-brand"><img src="img/2.png"></a>
+      <a href="#" class="navbar-brand"><img src="images/2.png"></a>
       <ul id="navbar__list">
       </ul>
 
